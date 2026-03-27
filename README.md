@@ -1,4 +1,6 @@
 # MISP Lookup Tool
+## Currently not working on our misp instance - something is wrong
+
 
 ## Description
 The MISP Lookup Tool is a PowerShell script designed to facilitate bulk IOCs lookups within MISP (Malware Information Sharing Platform) instances. It provides a convenient graphical interface for users to input parameters, execute queries, and export results for further analysis.
